@@ -2,6 +2,8 @@
 # 🔐 SEGURANÇA (CRÍTICO)
 # ==========================
 # Ignora o arquivo com usuário e senha do banco
+# Bloqueia segredos.txt em qualquer pasta (os dois asteriscos fazem isso)
+**/segredos.txt
 segredos.txt
 # Ignora arquivos de variáveis de ambiente (se usar no futuro)
 .env

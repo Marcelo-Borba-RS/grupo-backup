@@ -1,4 +1,4 @@
-# 🛡️ Pipeline de ETL Seguro: Excel para Parquet com MongoDB
+# 🛡️ Pipeline de ETL Seguro: Excel para Parquet com MongoDB 
 
 Este projeto consiste em um script Python de **Engenharia de Dados** focado no processamento seguro de informações sensíveis (em conformidade com a **LGPD**). 
 
@@ -27,6 +27,13 @@ O sistema automatiza a leitura de múltiplos arquivos Excel (legados e modernos)
 * **Sistema:** OS, Glob, Sys
 
 ---
+📞 Contato
+Desenvolvido por [Marcelo Borba, Marian Cordeiro, Pablo ]
+
+LinkedIn
+
+GitHub
+
 
 ## ⚙️ Pré-requisitos e Instalação
 
@@ -35,3 +42,4 @@ Para rodar este projeto localmente, siga os passos abaixo:
 ### 1. Clone o repositório
 ```bash
 git clone [https://github.com/Marcelo-Borba-RS/grupo-backup]
+

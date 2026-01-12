@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37d12c3-1696-4293-a9c0-2d3bce5b87ea" name="Changes" comment="feat: implementa criptografia de dados e seleção dinâmica de diretório">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Grupo Backup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema Backup/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema Backup/log_de_alteracoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema Backup/pipeline_de_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema Backup/segredos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipeline_de_dados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema Backup/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sistema Backup/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema Backup/segredos.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +47,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.log_de_alteracoes.executor": "Run",
     "Python.pipeline_de_dados.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "to.speed.mode.migration.done": "true"
   }
