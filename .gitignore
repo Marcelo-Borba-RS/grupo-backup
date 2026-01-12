@@ -1,0 +1,47 @@
+# ==========================
+# 🔐 SEGURANÇA (CRÍTICO)
+# ==========================
+# Ignora o arquivo com usuário e senha do banco
+segredos.txt
+# Ignora arquivos de variáveis de ambiente (se usar no futuro)
+.env
+
+# ==========================
+# 🐍 PYTHON E PYCHARM
+# ==========================
+# Lixo gerado pelo Python compilado (não serve pra nada no git)
+__pycache__/
+*.pyc
+
+# Configurações locais do PyCharm (são pessoais, não devem subir)
+.idea/
+
+# Ambientes virtuais (se você criou venv)
+venv/
+env/
+.venv/
+
+# ==========================
+# 📊 DADOS E ARQUIVOS GRANDES
+# ==========================
+# O GitHub não é lugar de guardar base de dados, apenas código!
+# Ignoramos os arquivos de entrada e saída para não travar o upload.
+
+# Arquivos Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+
+# Arquivos CSV
+*.csv
+
+# Arquivo Parquet gerado
+*.parquet
+
+# ==========================
+# 🛠️ SISTEMA OPERACIONAL
+# ==========================
+# Arquivos de miniatura do Windows ou Mac
+Thumbs.db
+.DS_Store
