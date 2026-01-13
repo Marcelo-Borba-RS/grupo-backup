@@ -4,7 +4,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 import requests
 
-# ============================================
+# =============================================
 # Conexão com MongoDB
 # ============================================
 
