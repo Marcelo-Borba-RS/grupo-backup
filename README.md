@@ -88,4 +88,6 @@ python pipeline_com_agenda.py
 | [**Philipe Félix**](https://github.com/philipe-felix) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/philipe-felix) |
 
 ---
+<br>
+
 © 2026 - Projetos Acadêmicos.
