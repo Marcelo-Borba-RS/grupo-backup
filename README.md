@@ -42,3 +42,32 @@ Para rodar este projeto localmente, siga os passos abaixo:
 ```bash
 git clone [https://github.com/Marcelo-Borba-RS/grupo-backup.git](https://github.com/Marcelo-Borba-RS/grupo-backup.git)
 cd grupo-backup
+
+### 2. Instale as bibliotecas
+pip install pandas pymongo[srv] cryptography openpyxl pyxlsb xlrd pyarrow
+
+### 3. Configuração de Segurança (Essencial) 🔐
+Crie um arquivo chamado segredos.txt na raiz do projeto. Ele deve conter apenas duas linhas:
+
+seu_usuario_mongo
+sua_senha_mongo
+
+▶️ Como Usar
+Execute o arquivo principal:
+python pipeline_de_dados.py
+
+O sistema apresentará um menu interativo:
+
+Gerar Parquet: Selecione a pasta com os Excels e aguarde a conversão segura.
+
+Salvar Log: Envia os metadados da operação para o MongoDB.
+
+📞 Contato e Desenvolvedores
+Projeto desenvolvido por:
+Desenvolvedor
+GitHub
+Marcelo Borba
+Marian Cordeiro
+Pablo Leonardo
+Philipe Félix
+© 2026 - Projeto Residência em Desenvolvimento de Software (Back-end)
