@@ -44,6 +44,15 @@ Sistema completo para gerenciamento de clientes, profissionais e agendamentos, c
 * **Banco de Dados:** PyMongo (MongoDB Atlas).
 * **Segurança:** Cryptography (Fernet).
 
+## 📞 Equipe de Desenvolvimento
+
+| Desenvolvedor | GitHub |
+| :--- | :--- |
+| [**Marcelo Borba**](https://github.com/Marcelo-Borba-RS) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Marcelo-Borba-RS) |
+| [**Marian Cordeiro**](https://github.com/mariscordeiro99-sudo) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mariscordeiro99-sudo) |
+| [**Pablo Leonardo**](https://github.com/pabloleonardo93-png) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/pabloleonardo93-png) |
+| [**Philipe Félix**](https://github.com/philipe-felix) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/philipe-felix) |
+
 ---
 
 ## ⚙️ Instalação e Configuração
@@ -77,17 +86,3 @@ Execute o script abaixo e insira suas credenciais quando solicitado pelo termina
 
 ```bash
 python pipeline_com_agenda.py
-
-## 📞 Equipe de Desenvolvimento
-
-| Desenvolvedor | GitHub |
-| :--- | :--- |
-| [**Marcelo Borba**](https://github.com/Marcelo-Borba-RS) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Marcelo-Borba-RS) |
-| [**Marian Cordeiro**](https://github.com/mariscordeiro99-sudo) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mariscordeiro99-sudo) |
-| [**Pablo Leonardo**](https://github.com/pabloleonardo93-png) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/pabloleonardo93-png) |
-| [**Philipe Félix**](https://github.com/philipe-felix) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/philipe-felix) |
-
----
-<br>
-
-© 2026 - Projetos Acadêmicos.
